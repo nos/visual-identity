@@ -3,13 +3,3 @@
 </p>
 
 # nOS Visual Identity
-**The nOS Visual Identity is subject to change.**
-
----
-## Logo Gradient:
-
-Left-to-right
-```
-Left: #b8d432
-Right: #58ba47
-```
