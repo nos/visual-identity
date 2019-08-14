@@ -6,6 +6,6 @@
 
 ### Gradient
 ```
-Right (dark): #6979F8
-Left (light): #A5AFFB
+Left (dark): #6979F8
+Right (light): #A5AFFB
 ```
