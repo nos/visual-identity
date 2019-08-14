@@ -3,3 +3,9 @@
 </p>
 
 # nOS Visual Identity
+
+### Gradient
+```
+Right (dark): #6979F8
+Left (light): #A5AFFB
+```
